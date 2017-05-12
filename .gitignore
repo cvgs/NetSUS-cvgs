@@ -1,3 +1,11 @@
 .DS_Store
 .svn
 
+NetSUSLPInstaller.run
+.idea
+profiles_settings.xml
+.sudo_as_admin_successful
+motd.legal-displayed
+packer_cache
+output-virtualbox-iso
+
